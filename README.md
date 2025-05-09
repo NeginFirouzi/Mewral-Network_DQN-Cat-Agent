@@ -16,6 +16,7 @@ A simple grid‑world RL environment where I tried to train a cat agent to navig
 ├── images/           # .png/.jpg assets for rendering (cat, food, water, lava, etc.)
 └── dqn_cat_model.pth # Saved PyTorch model weights after training
 ```
+## PyGame visualization gif
 
 <p align="center">
   <img src="Gif.gif" alt="Description of GIF" width="500"/>
